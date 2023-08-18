@@ -1,0 +1,6 @@
+[1, 'Lecture 1', 'lecture1', 'Lecture_1', 'lec1', 'Lec1', 'lecture: 1', 'lecture:1', 'Lec_1', 'c programming basics']
+[2, 'Lecture 2', 'lecture2', 'Lecture_2', 'lec2', 'Lec2', 'lecture: 2', 'lecture:2', 'Lec_2', 'Conditional Statment']
+[3, 'Lecture 3', 'lecture3', 'Lecture_3', 'lec3', 'Lec3', 'lecture: 3', 'lecture:3', 'Lec_3']
+[4, 'Lecture 4', 'lecture4', 'Lecture_4', 'lec4', 'Lec4', 'lecture: 4', 'lecture:4', 'Lec_4']
+[5, 'Lecture 5', 'lecture5', 'Lecture_5', 'lec5', 'Lec5', 'lecture: 5', 'lecture:5', 'Lec_5']
+[6, 'Lecture 6', 'lecture6', 'Lecture_6', 'lec6', 'Lec6', 'lecture: 6', 'lecture:6', 'Lec_6']
